@@ -13,9 +13,9 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "illuminate/support": "5.x",
-        "illuminate/database": "5.x",
-        "illuminate/console": "5.x",
+        "illuminate/support": "5.x|^6.0",
+        "illuminate/database": "5.x|^6.0",
+        "illuminate/console": "5.x|^6.0",
         "league/csv": "~8.0.0",
         "symfony/yaml": ">=2.8.2",
         "league/flysystem": "~1.0.16"
